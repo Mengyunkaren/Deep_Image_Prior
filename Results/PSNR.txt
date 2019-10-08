@@ -1,0 +1,6 @@
+Denoise Airplane 20.626977680329368 1720 Iters
+Inpainting Vase 31.294615828883835 1100 Iters
+Inpainting Kate 40.71781289467668 2440 Iters 
+
+
+
